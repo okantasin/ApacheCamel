@@ -1,4 +1,4 @@
-package com.java.microservices.camelmicroservicesa.routes;
+package com.java.microservices.camelmicroservicesa.routes.a;
 
 import org.apache.camel.Exchange;
 import org.apache.camel.Processor;
